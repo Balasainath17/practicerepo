@@ -14,9 +14,7 @@ int main()
 cout<<"hii Balasai"<<endl;
 return 0;
 }
-<<<<<<< HEAD
 
 // new change
 // one more change
-=======
->>>>>>> parent of 7a26543 (new change line added)
+// one more change
